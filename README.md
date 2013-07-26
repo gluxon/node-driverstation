@@ -6,6 +6,9 @@ Node.js API for the client-side FRC Driver Station
 
 node-driverstation is written under the [MIT License](http://opensource.org/licenses/MIT)
 
+### 0.3.1
+- Add disable()
+
 ### 0.3
 - Emit robotData
 - Incomplete but sufficient parsing of robotData done
