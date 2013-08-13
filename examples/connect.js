@@ -6,11 +6,11 @@ var options = {
 
 driverstation.start(options);
 
-driverstation.connection.on('connect', function() {
+driverstation.on('connect', function() {
 	console.log("connected!");
 });
 
-driverstation.connection.on('disconnect', function() {
+driverstation.on('disconnect', function() {
 	console.log("disconnected");
 });
 

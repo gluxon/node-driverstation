@@ -6,6 +6,10 @@ Node.js API for the client-side FRC Driver Station
 
 node-driverstation is written under the [MIT License](http://opensource.org/licenses/MIT)
 
+### 0.5
+- (API Change) Main class now extended from EventEmitter
+- Better teamID validation and change handling
+
 ### 0.4
 - Modified bit when enabled to 0x60 and disabled to 0x40 (not sure if this is right)
 

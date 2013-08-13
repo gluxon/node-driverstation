@@ -1,6 +1,6 @@
 {
   "name": "driverstation",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "author": "Brandon Cheng <gluxon@gluxon.com>",
   "description": "Node.js API for the client-side FRC Driver Station",
   "repository": {
