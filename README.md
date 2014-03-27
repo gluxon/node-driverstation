@@ -1,10 +1,15 @@
 # node-driverstation
 
-Node.js API for the client-side FRC Driver Station 
+Node.js API for the client-side FRC Driver Station
 
 ## License
 
 node-driverstation is written under the [MIT License](http://opensource.org/licenses/MIT)
+
+### 0.6
+These changes are from FRC 2539, the Krypton Cougars. Many thanks to them!
+- Added ability to change control modes other than enable/disable
+- Robot Code detection
 
 ### 0.5
 - (API Change) Main class now extended from EventEmitter
