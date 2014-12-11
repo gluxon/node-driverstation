@@ -6,6 +6,11 @@ Node.js API for the client-side FRC Driver Station
 
 node-driverstation is written under the [MIT License](http://opensource.org/licenses/MIT)
 
+
+### 0.6.1
+These changes are from [Gustave Michel III](https://www.github.com/gixxy).
+- Joystick Access rewritten to be more friendly to use
+
 ### 0.6
 These changes are from FRC 2539, the Krypton Cougars. Many thanks to them!
 - Added ability to change control modes other than enable/disable
