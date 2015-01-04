@@ -1,9 +1,9 @@
 {
-  "name": "frc-driverstation",
+  "name": "driverstation",
   "version": "0.6.1",
   "author": "Brandon Cheng <gluxon@gluxon.com>",
   "description": "Node.js API for the client-side FRC Driver Station",
-  "contributors": [ 
+  "contributors": [
     {
       "name": "Gustave Michel III",
       "email": "gus3@michelfamily.org"
